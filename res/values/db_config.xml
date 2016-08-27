@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 数据库名称 -->
+    <string name="db_name">download.db</string>
+
+    <!-- 数据库版本 -->
+    <item name="db_version" type="integer">2</item>
+
+</resources>
